@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a801375f-6e79-49b2-af0d-5524a6fde559/ddb0x4r-0fb8bcbc-4544-42b2-a93e-c25ef19b709f.png/v1/fill/w_1600,h_900,q_80,strp/coliseum_stage_jjba__eyes_of_heaven_ps4__dl__by_nutellapie_ddb0x4r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvYTgwMTM3NWYtNmU3OS00OWIyLWFmMGQtNTUyNGE2ZmRlNTU5XC9kZGIweDRyLTBmYjhiY2JjLTQ1NDQtNDJiMi1hOTNlLWMyNWVmMTliNzA5Zi5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.kKITzRzc9eoF0WHpBHm090FaGL1NGws1ZBDY9EW7HGw");
+backdrop-filter: blur(5px);
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cart{
+    padding: 30px;
+    
+    
+}
+
+.pesquisa {
+    margin-left: 325px;
+}
+
+.conteudoprincipal {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
