@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://i.imgur.com/MXpHqsS.png);
+    
+ }
+
+ .janelalogin {
+    margin-left: 290px;
+    margin-top: 50px;
+ }
+
+ .logininput{
+    margin-left: 150px;
+    margin-top: 70px;
+ }
+
+ .passwordinput{
+    margin-left: 150px;
+    margin-top: 30px;
+ }
+
+ .buttonlogin{
+    margin-left: 200px;
+    margin-top: 30px;
+ }
+
+ .loginword {
+    margin-left: 230px;
+    
+ }
